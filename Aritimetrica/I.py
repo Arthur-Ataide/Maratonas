@@ -1,0 +1,10 @@
+a,b,c,d,e,f = input().split()
+a = int(a)
+b = int(b)
+d = int(d)
+e = int(e)
+f = int(f)
+c = int(c)
+y = ((f-(d*c/a))*a)/(-d*b +a*e)
+x = (c - b*y)/a
+print("{:.2f} {:.2f}".format(x,y))
