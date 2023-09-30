@@ -52,13 +52,9 @@ int main(){
             b --;
             cont ++;
         }
+        
         // cout << a << endl;
         // cout << b << endl;
-
-        
-        
-       
-        
 
         if (a != 0){
             fila.push(a);
