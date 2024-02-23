@@ -52,5 +52,6 @@ def main():
         cont += weight
 
     print(cont)
+    
 if __name__ == "__main__":
     main()
